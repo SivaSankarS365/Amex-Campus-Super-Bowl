@@ -1,4 +1,4 @@
-**<h2 style = "BentonSans-Light,helvetica,sans-serif; color: #2196f3"> Code Submission by Team Thunder_BUDDIES </h2>**
+**<h2 style = "BentonSans-Light,helvetica,sans-serif; color: #2196f3"> American Express Campus Super Bowl</h2>**
 
                                                                                 - Siva Sankar S
                                                                                 - Tejashaarav S
